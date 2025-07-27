@@ -6,11 +6,11 @@
 ## 🧠 Project Overview
 
 This is a smart chatbot system powered by:
-- ✅ **RASA** – NLU and dialogue management framework
-- 🔗 **LLM (Mistral or any local model)** – Generates intelligent responses
-- 📚 **RAG (Retrieval-Augmented Generation)** – Retrieves relevant document chunks before generation
-- 🗂️ **Vector Database (FAISS/Chroma)** – Stores embedded textbook data for long-term memory
-- 🧾 **Memory Support**
+-  **RASA** – NLU and dialogue management framework
+-  **LLM (Mistral or any local model)** – Generates intelligent responses
+-  **RAG (Retrieval-Augmented Generation)** – Retrieves relevant document chunks before generation
+-  **Vector Database (FAISS/Chroma)** – Stores embedded textbook data for long-term memory
+-  **Memory Support**
   - **Short-term memory** – Tracks recent conversation history
   - **Long-term memory** – Retrieves from stored document vectors
 
