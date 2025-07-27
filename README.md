@@ -16,7 +16,7 @@ This is a smart chatbot system powered by:
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
 - Conversational chatbot with intent recognition (English + Bangla)
 - Retrieval-Augmented Generation for domain-grounded responses
@@ -28,13 +28,13 @@ This is a smart chatbot system powered by:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **RASA** for bot flow and NLU
 - **Mistral (or any LLM)** for intelligent response generation
-- **FAISS / Chroma** for vector-based long-term memory
-- **LangChain / SentenceTransformers** for document embedding
-- **Flask/FastAPI** backend for LLM-RAG server
+- ** Chroma** for vector-based long-term memory
+- **LangChain for document embedding
+- **Flask backend for LLM-RAG server
 - **Python** as core language
 
 ---
