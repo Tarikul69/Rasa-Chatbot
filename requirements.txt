@@ -1,0 +1,8 @@
+packaging==21.3
+rasa==3.5.0
+langchain==0.1.13
+llama-cpp-python==0.2.24
+transformers==4.40.0
+Flask==3.0.3
+requests==2.32.3
+Jinja2==3.1.6

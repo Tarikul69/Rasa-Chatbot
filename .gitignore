@@ -1,0 +1,58 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+env/
+.venv/
+venv/
+ENV/
+env.bak/
+
+# Rasa training artifacts
+*.db
+*.json
+*.tar.gz
+*.lock
+.rasa/
+.results.json
+*.pyi
+
+# Rasa logs
+logs/
+*.log
+
+# LLM model files (can be huge)
+models/*.gguf
+models/*.bin
+models/*.pth
+models/*.ckpt
+
+# LangChain cache
+.cache/
+langchain.db
+
+# MacOS/Linux system files
+.DS_Store
+.idea/
+.vscode/
+
+# Python packaging
+build/
+dist/
+*.egg-info/
+
+# Environment files
+.env
+.env.*
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Pytest
+.pytest_cache/
+
+# Misc
+*.bak
+*.tmp
